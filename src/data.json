@@ -1,0 +1,50 @@
+[
+  {
+    "daterange": "",
+    "dates": [
+      {
+        "date": 28,
+        "day": "sat",
+        "offer": [
+          { "text": "Makar Sankranti Festival Offer" },
+          { "color": "grey" }
+        ]
+      }
+    ]
+  },
+  {
+    "daterange": "25-28 Mar",
+    "dates": [
+      {
+        "date": 25,
+        "day": "wed",
+        "offer": [
+          { "text": "20% of on ICICI Debit cards" },
+          { "color": "orange" }
+        ]
+      },
+      {
+        "date": 28,
+        "day": "sat",
+        "offer": [
+          { "text": "Holi Festival Offer" },
+          { "color": "blue" },
+          { "text": "20% of on HDFC Net Banking" },
+          { "color": "blue" },
+          { "text": "Sales at D-Mart Store" },
+          { "color": "orange" }
+        ]
+      }
+    ]
+  },
+  {
+    "daterange": "25-30 Mar",
+    "dates": [
+      {
+        "date": 25,
+        "day": "sat",
+        "offer": [{ "text": "Navratri Festive Offer" }, { "color": "grey" }]
+      }
+    ]
+  }
+]
